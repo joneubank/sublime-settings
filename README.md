@@ -22,7 +22,7 @@ Listing here options that have been overwritten from the defaults.
 * **Size**: 14
 * **Margin**: 0
 * **Fade Fold Buttons**: False
-* **Ruler**: 79 - Indicator for max standard line length, follows PEP8 standard
+* **Ruler**: 80 - Indicator for max standard line length
 * **Tabs as Spaces**: True
 * **Highlight current line**: True
 * **Caret**: Solid and wide
