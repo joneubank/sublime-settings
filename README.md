@@ -15,31 +15,32 @@ git clone https://github.com/joneubank/sublime-setup.git ~/Library/Application\ 
 
 Listing here options that have been overwritten from the defaults.
 
-### Font
-* Size: 14
 
 ### Display
 
-* Margin: 0
-* Fade Fold Buttons: False
-* Ruler: 79 - An indicator for max standard line length, follows PEP-8 standard
-* Tabs as Spaces: True
-* Highlight current line: True
-* Caret: Solid and wide and green
-* Draw White Space: All
-* Indent Guides: Draw Active
+* **Sublime Theme**: Default
+* **Size**: 14
+* **Margin**: 0
+* **Fade Fold Buttons**: False
+* **Ruler**: 79 - Indicator for max standard line length, follows PEP8 standard
+* **Tabs as Spaces**: True
+* **Highlight current line**: True
+* **Caret**: Solid and wide
+* **Draw White Space**: All
+* **Indent Guides**: Draw Active
 
 
 ### Controls
-* Word Separators: added underscores
-* Scroll past end: true
-* Trailing White Space: Trim on save and last line is newline character on save
+* **Word Separators**: added underscores
+* **Scroll past end**: true
+* **Trailing White Space**: Trim on save, force last line is newline character
+* **Line Endings**: Unix
+* **Shift Tab**: Always un-indent
+* **Find Selected Text**: Set true for cross-platform consistency
 
 
-
-
-
-
+## Application
+* **Ignore Folders**: target (java war build path)
 
 
 ## Key Bindings
