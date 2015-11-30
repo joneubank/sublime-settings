@@ -19,7 +19,7 @@ Listing here options that have been overwritten from the defaults.
 ### Display
 
 * **Sublime Theme**: Default
-* **Size**: 14
+* **Size**: 11
 * **Margin**: 0
 * **Fade Fold Buttons**: False
 * **Ruler**: 80 - Indicator for max standard line length
