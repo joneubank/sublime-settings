@@ -1,5 +1,7 @@
-# sublime-settings
+# sublime-setup
 Sublime Text 3 Custom User Settings
+
+Includes Key Bindings and appearance preferences
 
 ## Setup Instructions
 Clone this repository into the Sublime Text User preferences folder:
