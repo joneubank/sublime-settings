@@ -8,7 +8,5 @@ Sublime OSX User Keymappings
 	*/
 	{ "keys": ["super+shift+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 	{ "keys": ["super+shift+c"], "command": "duplicate_line" },
-
-	
 	
 ]
