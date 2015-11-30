@@ -12,7 +12,9 @@ git clone https://github.com/joneubank/sublime-setup.git ~/Library/Application\ 
 ```
 
 ## Key Bindings:
+
 Key bindings setup for OSX use:
+
 | Keys | Command |
 | ---- | ------- |
 | Cmd + Shift + D | Delete Line |
